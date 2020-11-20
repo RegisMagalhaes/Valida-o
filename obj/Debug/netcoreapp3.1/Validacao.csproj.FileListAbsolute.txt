@@ -1,0 +1,13 @@
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Validacao\bin\Debug\netcoreapp3.1\Validacao.exe
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Validacao\bin\Debug\netcoreapp3.1\Validacao.deps.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Validacao\bin\Debug\netcoreapp3.1\Validacao.runtimeconfig.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Validacao\bin\Debug\netcoreapp3.1\Validacao.runtimeconfig.dev.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Validacao\bin\Debug\netcoreapp3.1\Validacao.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Validacao\bin\Debug\netcoreapp3.1\Validacao.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Validacao\obj\Debug\netcoreapp3.1\Validacao.csprojAssemblyReference.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Validacao\obj\Debug\netcoreapp3.1\Validacao.AssemblyInfoInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Validacao\obj\Debug\netcoreapp3.1\Validacao.AssemblyInfo.cs
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Validacao\obj\Debug\netcoreapp3.1\Validacao.csproj.CoreCompileInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Validacao\obj\Debug\netcoreapp3.1\Validacao.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Validacao\obj\Debug\netcoreapp3.1\Validacao.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Validacao\obj\Debug\netcoreapp3.1\Validacao.genruntimeconfig.cache
